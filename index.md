@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Welcome to the SeptiSearch tutorial pages! On the left side of the screen you'll see sections for each tab in SeptiSearch:
