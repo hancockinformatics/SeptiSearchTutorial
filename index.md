@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+![](/assets/images/t1.png)
+
 Welcome to the SeptiSearch tutorial pages! On the left side of the screen you'll see sections for each tab in SeptiSearch:
 
 - Explore the Database
