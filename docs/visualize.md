@@ -12,6 +12,8 @@ status, with the sidebar on the left providing a number of ways to filter the
 data. The "Reset this page" button at the bottom of the sidebar will reset all
 inputs, returning the plot to its original state.
 
+![Hover over a column in the plot to see the details for that molecule.](../../assets/images/t4.png)
+
 You can click one of the bars in the plot to show all entries for that molecule
 in SeptiSearch, and download this table using the button at the bottom of the
 sidebar.

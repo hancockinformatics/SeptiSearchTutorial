@@ -30,4 +30,5 @@ the dysregulation of the curated sepsis gene sets.
   two. Hover your cursor over the column names to see a description of each.
   Both tables can be downloaded using the buttons at the bottom of the
   sidebar.
-  
+
+![Table of enrichment results, from ReactomePA.](../../assets/images/t6.png)  

@@ -16,6 +16,8 @@ nav_order: 5
   expression data for GSVA" at the bottom of the sidebar to run the analysis and
   see the results.
 
+![Successfully loaded user data for GSVA.](../../assets/images/t7.png)
+
 If you'd like to submit your own data for GSVA, the expression component needs
 to meet the following criteria:
 
@@ -43,6 +45,8 @@ Once you've uploaded either the expression data alone, or expression and
 metadata, select "Submit expression data for GSVA" to run the analysis and view
 the results, which include a summary table and heatmap. Explanations of all the
 columns can be viewed by hovering over the column names with your cursor.
+
+![Results from SeptiSearch's GSVA implementation.](../../assets/images/t8.png)
 
 The full results table can be downloaded with the button at the bottom of the
 sidebar, and the image can be saved by right-clicking on it and selecting "Save

@@ -20,6 +20,9 @@ Set Name
   return to the original table, click the "Reset this page" button at the
   bottom of the sidebar, which will reset all inputs. In some cases it may also
   help to refresh the page from your browser (CTRL+F5)  
+
+![Select a study from the table to display all associated molecules.](../../assets/images/t2.png)
+
 - The table on the right will display all matching gene sets based on the
   specified filters - initially it includes all studies curated by SeptiSearch.
   Clicking on one or more rows will bring up a second table listing all entries
@@ -31,5 +34,8 @@ Set Name
   to easily test a gene set of interest for enriched pathways (see
   [this section](#perform-pathway-enrichment) for more details on performing
   pathway enrichment in SeptiSearch)
+
+![Choosing a single gene set enables the "Test this gene set for enriched pathways" button](../../assets/images/t3.png)
+
 - When you have selected one or more rows from the top table, you can use the
   provided button to download the lower table as a tab-delimited file
