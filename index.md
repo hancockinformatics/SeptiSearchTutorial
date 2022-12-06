@@ -4,23 +4,15 @@ layout: home
 nav_order: 1
 ---
 
+# Welcome to the SeptiSearch tutorial pages
+{: .fs-9 }
+
+SeptiSearch is an interactive Shiny app providing access to manually-curated molecular sepsis data from current publications.
+{: .fs-6 .fw-300 }
+
+[Visit SeptiSearch](https://septisearch.ca){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View it on GitHub][https://github.com/hancockinformatics/SeptiSearch/]{: .btn .fs-5 .mb-4 .mb-md-0 }
+
+Check the sidebar on the left side of the screen for sections corresponding to each tab in SeptiSearch
+
 ![Landing page.](assets/images/t1.png)
-
-Welcome to the SeptiSearch tutorial pages! On the left side of the screen you'll see sections for each tab in SeptiSearch:
-
-- Explore the Database
-- Visualize the Database
-- Perform Pathway Enrichment
-- Test for Enriched Sepsis Gene Sets
-
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-[SeptiSearch]: https://septisearch.ca
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
