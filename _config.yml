@@ -6,3 +6,8 @@ url: https://hancockinformatics.github.io/SeptiSearchTutorial
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/hancockinformatics/SeptiSearchTutorial
+
+callouts:
+  note:
+    title: Note
+    color: purple
