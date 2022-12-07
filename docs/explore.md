@@ -4,6 +4,8 @@ layout: default
 nav_order: 2
 ---
 
+# Explore the Database
+
 ## Overview
 This tab allows you to easily browse and search the SeptiSearch database.
 Entries are organized by Gene Set Name, which is a unique identifier given to a
