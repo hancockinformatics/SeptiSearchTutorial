@@ -11,7 +11,7 @@ set of genes curated from the literature. Initially, the table on the right
 lists all Gene Sets, along with a few pieces of key information on
 each, and links to the original publication.
 
-{: .note}
+{: .note }
 One publication may have multiple gene sets when multiple comparisons or
 datasets are included, e.g. comparing two sepsis severity groups to healthy
 controls.
@@ -43,7 +43,7 @@ SeptiSearch database using input fields described below.
 
 ![Searching for "s100" and viewing the first gene set.](../assets/images/t2b.png)
 
-{: note}
+{: note }
 After entering a number of searches or filter criteria, if you would like to
 return to the original/complete table, click the "Reset this page" button at the
 bottom of the sidebar, which will reset all inputs. In some cases it may also
