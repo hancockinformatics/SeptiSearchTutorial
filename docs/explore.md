@@ -12,9 +12,7 @@ lists all Gene Sets, along with a few pieces of key information on
 each, and links to the original publication.
 
 {: .note }
-One publication may have multiple gene sets when multiple comparisons or
-datasets are included, e.g. comparing two sepsis severity groups to healthy
-controls.
+One publication may have multiple gene sets when multiple comparisons or datasets are included, e.g. comparing two sepsis severity groups to healthy controls.
 
 Clicking on one or more rows in this table will bring up a second table below
 the first, listing all molecules in the selected gene set(s) and more detailed
@@ -43,11 +41,8 @@ SeptiSearch database using input fields described below.
 
 ![Searching for "s100" and viewing the first gene set.](../assets/images/t2b.png)
 
-{: note }
-After entering a number of searches or filter criteria, if you would like to
-return to the original/complete table, click the "Reset this page" button at the
-bottom of the sidebar, which will reset all inputs. In some cases it may also
-help to refresh the page from your browser (CTRL+F5).
+{: .note }
+After entering a number of searches or filter criteria, if you would like to return to the original/complete table, click the "Reset this page" button at the bottom of the sidebar, which will reset all inputs. In some cases it may also help to refresh the page from your browser (CTRL+F5).
 
 ## Perform pathway enrichment on SeptiSearch gene sets
 If you select a single gene set in the top table, a button in the left sidebar
