@@ -4,13 +4,32 @@ layout: default
 nav_order: 6
 ---
 
-If you run into problem or encounter bugs while using SeptiSearch, try resetting
-the inputs to their original state when available, or refresh your browser
-window to reload the app (CTRL+F5). If the problem persists, you can submit an
-issue on our Github page by following 
-[this link](https://github.com/hancockinformatics/SeptiSearch/issues).
+# General Troubleshooting
 
-If you encounter a problem with the *Test for Enriched Sepsis Gene Sets*
-and *Perform Pathway Enrichment* tabs, please ensure your inputs match all the
-specified criteria for each tab before reporting the problem via a Github
+## Overview
+If you run into problem or encounter bugs while using SeptiSearch, try resetting
+the inputs to their original state, using the provided "Reset this page" buttons 
+when available. Alternatively you can refresh your browser window to reload the
+app (CTRL+F5). 
+
+{: .note }
+While refreshing the page will likely resolve most issues, it will reset all inputs/filters, meaning you will need to reapply any searches or inputs after the refresh.
+
+## 'Perform Pathway Enrichment' & 'Test for Enriched Sepsis Gene Sets' tabs
+If you encounter a problem with the *Perform Pathway Enrichment* or 
+*Test for Enriched Sepsis Gene Sets* tabs, please ensure your inputs match all
+the specified criteria for each tab before reporting the problem via a Github
 issue.
+
+## Submitting a Github issue
+If you've tried resetting and refreshing the page, and ensured your inputs 
+follow any given criteria, you can submit an issue to the SeptiSearch Github 
+page using the link below. You simply need to create an account (its free!), and
+follow the steps provided. Please provide as much detail as you can about the
+issue, including what steps you took when experiencing the problem. Screenshots,
+along with inputs (for the *Perform Pathway Enrichment* and *Test for Enriched Sepsis Gene Sets*)
+are greatly encouraged.
+
+{: .note-title }
+> Submit an issue
+> Link to create an issue on Github: [https://github.com/hancockinformatics/SeptiSearch/issues/new/choose](https://github.com/hancockinformatics/SeptiSearch/issues/new/choose)
