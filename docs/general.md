@@ -21,9 +21,9 @@ If you encounter a problem with the *Perform Pathway Enrichment* or
 the specified criteria for each tab before reporting the problem via a Github
 issue.
 
-## Submitting a Github issue
+## Submitting a GitHub issue
 If you've tried resetting and refreshing the page, and ensured your inputs 
-follow any given criteria, you can submit an issue to the SeptiSearch Github 
+follow any given criteria, you can submit an issue to the SeptiSearch GitHub 
 page using the link below. You simply need to create an account (its free!), and
 follow the steps provided. Please provide as much detail as you can about the
 issue, including what steps you took when experiencing the problem. Screenshots,
@@ -32,4 +32,7 @@ are greatly encouraged.
 
 {: .note-title }
 > Submit an issue
-> Link to create an issue on Github: [https://github.com/hancockinformatics/SeptiSearch/issues/new/choose](https://github.com/hancockinformatics/SeptiSearch/issues/new/choose)
+> 
+> Link to create an issue on GitHub:
+> 
+> [https://github.com/hancockinformatics/SeptiSearch/issues/new/choose](https://github.com/hancockinformatics/SeptiSearch/issues/new/choose)
