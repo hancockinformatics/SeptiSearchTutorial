@@ -34,4 +34,4 @@ are greatly encouraged.
 > Submit an issue
 > 
 > Link to create an issue on GitHub:
-> https://github.com/hancockinformatics/SeptiSearch/issues/new/choose
+> [https://github.com/hancockinformatics/SeptiSearch/issues/new/choose](https://github.com/hancockinformatics/SeptiSearch/issues/new/choose)
