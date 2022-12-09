@@ -13,6 +13,8 @@ back_to_top_text: "Back to top"
 
 footer_content: "SeptiSearch was developed by Travis Blimkie, under the <a href='https://github.com/hancockinformatics/SeptiSearch/blob/master/LICENSE'>GPL-3.0 license</a> for the <a href='http://cmdr.ubc.ca/bobh'>Hancock Lab.</a>"
 
+color_scheme: septisearch
+
 callouts:
   note:
     title: Note
