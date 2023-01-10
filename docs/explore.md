@@ -14,7 +14,7 @@ lists all Gene Sets, along with a few pieces of key information on
 each, and links to the original publication.
 
 {: .note }
-One publication may have multiple gene sets when multiple comparisons or datasets are included, e.g. comparing two sepsis severity groups to healthy controls.
+One publication may have multiple gene sets when multiple comparisons or datasets are included, e.g. comparing two sepsis severity groups to healthy controls. This is denoted with a numeric suffix, e.g. "Ahmad-1" and "Ahmad-2."
 
 Clicking on one or more rows in this table will bring up a second table below
 the first, listing all molecules in the selected gene set(s) and more detailed
