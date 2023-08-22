@@ -27,8 +27,8 @@ follow any given criteria, you can submit an issue to the SeptiSearch GitHub
 page using the link below. You simply need to create a free account, and follow
 the steps provided. Please provide as much detail as you can about the issue,
 including what steps you took when experiencing the problem. Screenshots, along
-with inputs (for the *Perform Pathway Enrichment* and *Test for Enriched Sepsis Gene Sets*)
-are greatly encouraged.
+with inputs (for the *Perform Pathway Enrichment* and *Test for Enriched Sepsis Gene Sets* 
+tabs) are greatly encouraged.
 
 {: .note-title }
 > Submit an issue
